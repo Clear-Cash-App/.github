@@ -1,4 +1,4 @@
-#Clear Cash App - Expense Tracker
+# Clear Cash App - Expense Tracker
 ![1000012240](https://github.com/user-attachments/assets/1dcc2b94-faf5-4ca6-937a-37d07d83b62d)
 
 
